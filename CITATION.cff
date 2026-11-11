@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Aridity limits the transferability of streamflow models across climate environments"
+authors:
+  - family-names: Hu
+    given-names: En
+    affiliation: "School of Mathematics, Hohai University, Nanjing, China"
+    orcid: "https://orcid.org/0009-0001-2027-2316"
+type: software
+license: MIT
+repository-code: "https://github.com/PLACEHOLDER/PLACEHOLDER"
+keywords:
+  - prediction in ungauged basins
+  - domain generalization
+  - regionalization
+  - aridity
+  - LSTM
+  - CAMELS
